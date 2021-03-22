@@ -1,3 +1,3 @@
 # Databases
 
-Algumas base de dados úteis..
+Algumas bases de dados úteis..
